@@ -1,5 +1,19 @@
+
 .head{
     width: auto;
     height: 150px;
     background-image:url(../img/pattern.png);
+}
+.font-yellow{
+    background-color: gold;
+}
+.font-table{
+    border-style: none;
+}
+.font-th{
+   background-color: rgb(41, 148, 248);
+   color: white;
+}
+.font-td{
+    background-color: rgba(41, 148, 248, 0.3)
 }
