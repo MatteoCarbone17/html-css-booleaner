@@ -1,8 +1,10 @@
 
-.head{
+.font-div{
     width: auto;
     height: 150px;
+    background-color: rgb(37, 170, 223);
     background-image:url(../img/pattern.png);
+    background-repeat:repeat-x;
 }
 .font-yellow{
     background-color: gold;
