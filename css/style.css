@@ -10,7 +10,8 @@
     background-color: gold;
 }
 .font-table{
-    border-style: none;
+    table-layout: fixed;
+    width: 100%;
 }
 .font-th{
    background-color: rgb(41, 148, 248);
@@ -18,4 +19,10 @@
 }
 .font-td{
     background-color: rgba(41, 148, 248, 0.3)
+}
+.text-blue{
+    color: rgb(21, 118, 230);
+}
+.footer-title{
+    color: rgb(58, 94, 94);
 }
